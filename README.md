@@ -3,7 +3,7 @@
 # To-Do:
 - [ ] Complete project proposal
 - [ ] Complete "User Stories" document
-- [ ] Configure branch protection on main
+- [x] Configure branch protection on main
 - [ ] Set up project management tool (?) if necessary
 
 # Project Proposal:
